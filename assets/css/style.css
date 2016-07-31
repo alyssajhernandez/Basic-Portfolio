@@ -1,0 +1,44 @@
+body {
+	background-image: url(contemporary_china.png);
+ }
+
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    text-align: left;
+}
+
+
+h1 {
+	background-color: #4aaaa5
+}
+
+h1 {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+	text-align: left;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+
+
+img {
+	display: block;
+	margin: auto;
+	width: 20%
+}
+
+div {
+	width: 320px;
+}
