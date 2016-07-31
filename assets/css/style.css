@@ -75,3 +75,20 @@ aside {
 	border: 1px solid #eee;
 }
 
+form {
+	padding-top: 20px;
+	padding-right: 30px;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    text-align: left;
+}
+
+input {
+	width: 50%
+}
+
+input {
+	height: 20px
+}
+
+
