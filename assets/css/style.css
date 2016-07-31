@@ -28,7 +28,8 @@ h2 {
 	padding-top: 50px;
     padding-right: 30px;
     padding-left: 40px;
-
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: black;
 }
 
 hr {
@@ -46,6 +47,11 @@ div {
     width: 65%;
     background-color: white;
     margin: 30px
+}
+
+div {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777
 }
 
 p {
@@ -73,6 +79,7 @@ aside {
 	height: 200px;
 	background: #fff;
 	border: 1px solid #eee;
+
 }
 
 form {
@@ -81,6 +88,8 @@ form {
     padding-bottom: 1px;
     padding-left: 40px;
     text-align: left;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
 }
 
 input {
@@ -90,5 +99,6 @@ input {
 input {
 	height: 20px
 }
+
 
 
