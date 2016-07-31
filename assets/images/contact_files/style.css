@@ -2,6 +2,15 @@ body {
 	background-image: url(contemporary_china.png);
  }
 
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    text-align: left;
+}
+
+
 h1 {
 	background-color: #4aaaa5
 }
@@ -18,44 +27,21 @@ h2 {
 	text-align: left;
 	padding-top: 50px;
     padding-right: 30px;
-    padding-left: 40px;
-
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
 
-hr {
-	width: 675px
-}
+
 
 img {
 	display: block;
 	margin: auto;
-	width: 100%
-
-
+	width: 20%
 }
 
 div {
 	height: 500px;
-    width: 65%;
+    width: 50%;
     background-color: white;
     margin: 30px
 }
-
-p {
-    padding-top: 0px;
-    padding-right: 30px;
-    padding-bottom: 1px;
-    padding-left: 40px;
-    text-align: left;
-}
-
-
-section {
-	padding-top: 20px;
-	padding-right: 30px;
-    padding-bottom: 1px;
-    padding-left: 40px;
-    text-align: left;
-
-}
-
