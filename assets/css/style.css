@@ -83,7 +83,7 @@ aside {
 	height: 200px;
 	background: #fff;
 	border: 1px solid #eee;
-
+	font-family: 'Georgia';
 }
 
 form {
@@ -103,6 +103,7 @@ input {
 input {
 	height: 20px
 }
+
 
 
 
